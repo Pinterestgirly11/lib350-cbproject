@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: Advertisements & Campaigns of Tobacco Use  
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Collection Showcasing Advertisements that either Encourage or Discourage Smoking Tobacco from the 1960s. 
+tagline: A collection showcasing advertisements from the 1960s that either encourage or discourage smoking tobacco.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
