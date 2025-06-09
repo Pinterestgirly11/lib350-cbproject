@@ -1,3 +1,10 @@
+---
+title: Data Management Plan 
+layout: page
+permalink: \dmp.html
+---
+
+
 **Advertisements & Campaigns of Tobacco Use- A collection showcasing advertisements from the 1960s that either encourage or discourage tobacco use** 
 
 **Data Management Plan**
